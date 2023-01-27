@@ -1,4 +1,4 @@
-DEBUG=1 #0 = off; 1 = on
+DEBUG=0 #0 = off; 1 = on
 MINRGB=17
 MAXRGB=100
 
